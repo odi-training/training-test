@@ -1,17 +1,4 @@
 Age_Band, Sex, Locality, Number_of_PCs_owned, Number_of_Laptops_owned, Number_of_Tablets_owned, Number_of_Smartphones_owned, Android/Apple/Other
 25-30, M, Southampton, 3, 4, 1, 2, Android
 30-40, M, London, 2, 1, 1, 1, Other
-foo,bar,baz
-_Group1_Person4
 30-35, F, London, 1, 2, 1, 2, Android
-_Group2_Person2
-_Group2_Person3
-_Group2_Person4
-_Group3_Person1
-_Group3_Person2
-_Group3_Person3
-_Group3_Person4
-_Group4_Person1
-_Group4_Person2
-_Group4_Person3
-_Group4_Person4
